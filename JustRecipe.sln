@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustRecipe", "JustRecipe\JustRecipe.csproj", "{D99AB3A6-FB03-41E7-ABAD-37D0A982B534}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustRecipe.Tests", "JustRecipe.Tests\JustRecipe.Tests.csproj", "{CB6EAF3B-7287-47EF-9806-4314F17D43B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D99AB3A6-FB03-41E7-ABAD-37D0A982B534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D99AB3A6-FB03-41E7-ABAD-37D0A982B534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D99AB3A6-FB03-41E7-ABAD-37D0A982B534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D99AB3A6-FB03-41E7-ABAD-37D0A982B534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB6EAF3B-7287-47EF-9806-4314F17D43B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB6EAF3B-7287-47EF-9806-4314F17D43B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB6EAF3B-7287-47EF-9806-4314F17D43B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB6EAF3B-7287-47EF-9806-4314F17D43B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {755B1A92-494D-4F03-A147-77B03FE12DF7}
+	EndGlobalSection
+EndGlobal
