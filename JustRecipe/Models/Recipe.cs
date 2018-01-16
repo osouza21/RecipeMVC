@@ -9,6 +9,6 @@ namespace JustRecipe.Models
     {
         public int ID { get; set; }
         public string Name { get; set; }
-        public virtual ICollection<Ingrediant> Ingrediants { get; set; }
+        public virtual ICollection<Ingredient> Ingredients { get; set; }
     }
 }
